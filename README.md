@@ -13,6 +13,7 @@ assets/
   pdfs/                  PDF exports (embedded inline on project pages)
 ```
 
+## Adding a new project
 
 1. Copy `projects/volex-lbo.html` and rename it (e.g. `dcf-valuation.html`).
 2. Update the title, summary bullets, and the `<iframe>` src to point at the new PDF.
